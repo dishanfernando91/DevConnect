@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/profile/
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZiZjRjYmYxNTcxNGUzZWEwMTIxM2M0In0sImlhdCI6MTYwNjM3MjU0MywiZXhwIjoxNjA2NzMyNTQzfQ.1GJrhYjXq2g3rrgR31_rU7sl5rQ3zQcCBKaS7dolhRA
+
+{
+    "status": "Junio",
+    "skills": "HTML, CSS"
+}

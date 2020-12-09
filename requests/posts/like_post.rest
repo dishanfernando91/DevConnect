@@ -1,0 +1,2 @@
+PUT http://localhost:5000/api/posts/like/5fbfef79fc43cd394061a580
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZiZjRiZjQxNTcxNGUzZWEwMTIxM2MyIn0sImlhdCI6MTYwNjQxMzY3MiwiZXhwIjoxNjA2NzczNjcyfQ.yI_pNVJqgRmsACsKNInqm0kn0Gonx1wR_AqWmRF4bXc

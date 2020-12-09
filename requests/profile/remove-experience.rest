@@ -1,0 +1,2 @@
+DELETE http://localhost:5000/api/profile/experience/5fbfae591241d54abccaaade
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZiZjRiZjQxNTcxNGUzZWEwMTIxM2MyIn0sImlhdCI6MTYwNjM4MDQyMCwiZXhwIjoxNjA2NzQwNDIwfQ.3rmNzRXuKe3-3ROkrjYgznOJDd1DlxVXSfcNu0iW5fA

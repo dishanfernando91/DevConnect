@@ -1,0 +1,2 @@
+DELETE http://localhost:5000/api/profile
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZiZjRjYmYxNTcxNGUzZWEwMTIxM2M0In0sImlhdCI6MTYwNjM3OTA4OSwiZXhwIjoxNjA2NzM5MDg5fQ.XMOoBLv3O4c-XDakEf1lHgNxSPAOmsymdZRVTux0ebY

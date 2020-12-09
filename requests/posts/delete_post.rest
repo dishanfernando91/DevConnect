@@ -1,0 +1,2 @@
+DELETE http://localhost:5000/api/posts/5fc0c284c053534e10e1a6a1
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZiZjRiZjQxNTcxNGUzZWEwMTIxM2MyIn0sImlhdCI6MTYwNjQxMzY3MiwiZXhwIjoxNjA2NzczNjcyfQ.yI_pNVJqgRmsACsKNInqm0kn0Gonx1wR_AqWmRF4bXc

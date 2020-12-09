@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/posts/comment/5fbfef79fc43cd394061a580
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZiZjRiZjQxNTcxNGUzZWEwMTIxM2MyIn0sImlhdCI6MTYwNjQ3MjU5NywiZXhwIjoxNjA2ODMyNTk3fQ.dEmPMDRmUp1OFh-0Z4O1SYY6LV4hKek_M1XljvT58ZU
+
+{
+    "text": "Hi, how are you?"
+}

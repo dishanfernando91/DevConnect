@@ -1,0 +1,12 @@
+PUT http://localhost:5000/api/profile/experience
+Content-Type: application/json
+x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNWZjOGFkN2U5NDA5YmMxMGQwMTEyZTJkIn0sImlhdCI6MTYwNzE3OTIyMCwiZXhwIjoxNjA3NTM5MjIwfQ.sAo00ZFAZEMyp56U6XE9Y0dWmFDPLabZqfq78mFZLDQ
+
+{
+    "title" : "Senior Architect",
+    "company" : "Facebook",
+    "location" : "USA",
+    "from" : "8-10-2015",
+    "current" : true,
+    "description" : "Lead projects."
+}
